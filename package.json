@@ -1,7 +1,7 @@
 {
-  "name": "source-map-merger",
+  "name": "@motiz88/source-map-merger",
   "description": "Merge generated Source Maps to create a map between the initial source and the final result through multiple transformation and processing steps.",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/jasmine",
