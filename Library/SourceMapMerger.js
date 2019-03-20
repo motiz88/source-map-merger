@@ -1,5 +1,5 @@
 var fs = require("fs");
-var SourceMap = require("source-map");
+var SourceMap = require("@motiz88/source-map");
 
 var findOriginal = function(consumers, generatedLine, generatedColumn, shouldIgnoreMissingRanges) {
     var currentLine = generatedLine;
